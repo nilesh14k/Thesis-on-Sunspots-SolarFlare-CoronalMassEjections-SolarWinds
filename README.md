@@ -1,3 +1,4 @@
+-nilesh14k-
 "# MATH5872M  Dissertation on Sunspots"
 
 This repository contains the code and data for the dissertation on Sunspots. The project aims to find the relation between sunspots and activities happening in the sun's atmosphere.
@@ -34,10 +35,6 @@ If you'd like to contribute to this project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Create a pull request, describing your changes and why they should be merged.
-
-## Acknowledgments
-
-We would like to acknowledge Professor David Hughes [https://eps.leeds.ac.uk/maths/staff/4039/professor-david-hughes].
 
 ## Contact
 
