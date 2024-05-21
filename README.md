@@ -1,4 +1,5 @@
 -nilesh14k-
+
 "# MATH5872M  Dissertation on Sunspots"
 
 This repository contains the code and data for the dissertation on Sunspots. The project aims to find the relation between sunspots and activities happening in the sun's atmosphere.
