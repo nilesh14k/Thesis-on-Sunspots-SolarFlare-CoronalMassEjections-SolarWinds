@@ -1,7 +1,5 @@
-A Thesis on Sunspots
-![sunspots](https://github.com/nilesh14k/Thesis-on-Sunspots-SolarFlare-CoronalMassEjections-SolarWinds/assets/65092135/6534a9c7-b66a-448b-aa9b-18b19819e819)
-
 "# MATH5872M  Dissertation on Sunspots"
+![sunspots](https://github.com/nilesh14k/Thesis-on-Sunspots-SolarFlare-CoronalMassEjections-SolarWinds/assets/65092135/6534a9c7-b66a-448b-aa9b-18b19819e819)
 
 This repository contains the code and data for the dissertation on Sunspots. The project aims to find the relation between sunspots and activities happening in the sun's atmosphere.
 
